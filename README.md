@@ -26,3 +26,8 @@ Make sure to run the test for more than 3 videos. Once the output is accurate. W
  3. Live feed test
 
 Run the Webcam.m file and MATLAB will output the live video feed from your webcam and tell whether there is mask or not.
+
+Hardware Components :-
+ 
+ 1. Webcam
+ 2. System loaded with MATLAB
